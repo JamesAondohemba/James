@@ -1,0 +1,39 @@
+body{
+    background-color: rgb(10, 64, 111);
+    color: white;
+    overflow: hidden;
+}
+h1{
+    text-align: center;
+
+}
+
+div{
+    align-content: center;
+    border: 2px solid white;
+    background-color: rgb(11, 11, 46);
+    display: inline-flex;
+    padding: 8px;
+    margin: auto;
+    width: 20%;
+    height: 200px;
+    text-align: center;
+    margin-left: 25px;
+
+}
+
+a{
+    background-color: rgb(102, 21, 66);
+    color: white;
+    text-decoration: none;
+}
+
+button{
+    background-color: rgb(102, 21, 66);
+    display:inline-flex;
+  
+}
+ audio{
+   color: red;
+    margin-top: 10px;
+ }
